@@ -1,0 +1,10 @@
+{
+    "environment": "../venv",
+    "locale_domain": "simple",
+    "pid_file": "/tmp/simple.pid",
+    "packages": "lib/python3.5/site-packages",
+    "language": "en",
+    "config_path": "simple.json",
+    "workers": 4,
+    "locale_dir": "../locale"
+}
